@@ -7,4 +7,4 @@ Each folder contains design details, eagle, altium and orcad schematic files , b
 The purpose of generating design is to allow individuals to use vast generated design content without restriction and provide any feedback/improvement areas. 
 
 Fun Fact: Each Design took 4-6 minutes to generate through scripts. We are talking about design generation, export of various EDA cad files, random board component placements of 6 boards for 900 + controllers that totals 3600 minutes(60 hrs)(Two and half day). 
-It time to look for entry in some record book :) 
+It's time to look for a entry in some record book :) 
