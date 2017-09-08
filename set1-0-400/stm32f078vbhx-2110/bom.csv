@@ -1,0 +1,37 @@
+S.No, Part Number, Manufacturer, Reference designator, Part Value, Qty, In Stock, SKU, Price, Total Price, Product Url,Seller
+1,"RC0603JR-0710KL",Yageo,"r1,r5,r6,r7,r10,r11,r16",10000 ohm, 7, 8603, 2879583, 0.00240, 0.0168, https://octopart.com/click/track?country=IN&ak=17001198&sig=0922bfb&sid=2454&ppid=1160844&vpid=19679401&ct=offers, Future Electronics
+2,"RC0603JR-071KL",Yageo,"r2",1000 ohm, 1, 5774, RC0603JR-071KL, 0.00170, 0.0017, https://octopart.com/click/track?country=IN&ak=17001198&sig=0eb00c7&sid=13811&ppid=55402888&vpid=189264391&ct=offers, Area51
+3,"RC0603JR-07910RL",Yageo,"r3",910 ohm, 1, 50, C1S900100949831, 0.04390, 0.0439, https://octopart.com/click/track?country=IN&ak=17001198&sig=0c34cf3&sid=13512&ppid=1162648&vpid=281203337&ct=offers, Chip One Stop Japan
+4,"RC0603JR-074K7L",Yageo,"r4",4700 ohm, 1, 29513, RC0603JR-074K7L, 0.01500, 0.015, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e0dcd2&sid=2412&ppid=55458509&vpid=195934255&ct=offers, Quest
+5,"stm32f078vbh7",ST Micro,"u1",stm32f078vbh7 , 1, na, na, na, na, na, na
+6,"c0603c105k3ractu",Kemet,"c1,c11",1.0E-6 F, 2, 143, C0603C105K3RACTU**MULT1, 0.20540, 0.4108, https://octopart.com/click/track?country=IN&ak=17001198&sig=0f39295&sid=1106&ppid=22544255&vpid=52749042&ct=offers, Arrow
+7,"06035C104K4Z2A",Avx,"c2,c3,c4,c5,c7,c8,c9",1.0E-7 F, 7, 1585, 06035C104K4Z2A**MULT1, 0.04920, 0.3444, https://octopart.com/click/track?country=IN&ak=17001198&sig=0c44469&sid=1106&ppid=18078370&vpid=179587332&ct=offers, Arrow
+8,"z0603c241asmst",Kemet,"f1",240 ohm, 1, 3960, 80-Z0603C241ASMST, 0.23000, 0.23, https://octopart.com/click/track?country=IN&ak=17001198&sig=07a3e59&sid=2401&ppid=7189478&vpid=37681534&ct=offers, Mouser
+9,"GRM188R6YA475KE15D",Murata,"c6",4.7E-6 F, 1, 977339, 490-7205-6-ND, 0.37000, 0.37, https://octopart.com/click/track?country=IN&ak=17001198&sig=0767ac1&sid=459&ppid=26982329&vpid=68513478&ct=offers, Digi-Key
+10,"06035C103K4Z2A",Avx,"c10",1.0E-8 F, 1, 54256, 581-06035C103K4Z2A, 0.22000, 0.22, https://octopart.com/click/track?country=IN&ak=17001198&sig=097f17b&sid=2401&ppid=9079594&vpid=37780132&ct=offers, Mouser
+11,"C0402C100K3GACTU",Kemet,"c12,c13,c14,c15",1.0E-11 F, 4, 12, C0402C100K3GACTU**MULT1, 0.22170, 0.8868, https://octopart.com/click/track?country=IN&ak=17001198&sig=0802a75&sid=1106&ppid=9143701&vpid=274027547&ct=offers, Arrow
+12,"TST-110-05-T-D-RA",Samtec,"u2",TST-110-05-T-D-RA , 1, 76, TST-110-05-T-D-RA, 1.91550, 1.9155, https://octopart.com/click/track?country=IN&ak=17001198&sig=0b084aa&sid=1106&ppid=12549072&vpid=21239260&ct=offers, Arrow
+13,"c0402c104k3ractu",Kemet,"c16,c19",1.0E-7 F, 2, 7350, C0402C104K3RACTU**MULT1, 0.04050, 0.081, https://octopart.com/click/track?country=IN&ak=17001198&sig=02cd677&sid=1106&ppid=71105629&vpid=421499105&ct=offers, Arrow
+14,"10118193-0001LF",FCI,"u3",10118193-0001LF , 1, 10033, 70236827, 0.22000, 0.22, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e47faf&sid=14&ppid=21265435&vpid=50118000&ct=offers, Allied Electronics
+15,"prtr5v0u2ax",NXP,"u4",prtr5v0u2ax , 1, 28, PRTR5V0U2AX, 0.40000, 0.4, https://octopart.com/click/track?country=IN&ak=17001198&sig=03b89f8&sid=2412&ppid=7883294&vpid=248200500&ct=offers, Quest
+16,"Dummy Connector Part",Dummy,"u15",Dummy Connector Part , 1, na, na, na, na, na, na
+17,"ABS07-32.768KHZ-7-T",ABRACON,"u5",ABS07-32.768KHZ-7-T , 1, 806, 6065130, 0.37500, 0.375, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e162bd&sid=2454&ppid=657767&vpid=109606380&ct=offers, Future Electronics
+18,"ABLS-25.000MHZ-B2F-T",ABRACON,"u6",ABLS-25.000MHZ-B2F-T , 1, 498, 6208136, 0.20500, 0.205, https://octopart.com/click/track?country=IN&ak=17001198&sig=0633348&sid=2454&ppid=46720&vpid=19641011&ct=offers, Future Electronics
+19,"ltc3406es5",Linear Tech,"u7",ltc3406es5 , 1, na, na, na, na, na, na
+20,"c0805c106k8ractu",Kemet,"c17,c18",1.0E-5 F, 2, 2460, C0805C106K8RAC, 0.13419, 0.26838, https://octopart.com/click/track?country=IN&ak=17001198&sig=0d23c94&sid=1532&ppid=22566626&vpid=278058562&ct=offers, TME
+21,"dr1040-5r2-r",Coiltronics,"i1",5.2E-6 H, 1, 1100, DR1040-5R2-R, 0.87000, 0.87, https://octopart.com/click/track?country=IN&ak=17001198&sig=0bca686&sid=2429&ppid=11544471&vpid=190931568&ct=offers, Onlinecomponents.com
+22,"na",Na,"r8",490000 ohm, 1, na, na, na, 0, na, na
+23,"RC0603JR-071ML",Yageo,"r9",1000000 ohm, 1, 14568, RC0603JR-071ML, 0.01500, 0.015, https://octopart.com/click/track?country=IN&ak=17001198&sig=03e74bb&sid=2412&ppid=40254917&vpid=253111179&ct=offers, Quest
+24,"TPS3895ADRYR",Texas Instruments,"u10",TPS3895ADRYR , 1, 5974, TPS3895ADRYR**MULT1, 1.29010, 1.2901, https://octopart.com/click/track?country=IN&ak=17001198&sig=07f86ef&sid=1106&ppid=20402782&vpid=218190074&ct=offers, Arrow
+25,"RC0603JR-0782KL",Yageo,"r12",82000 ohm, 1, 20000, RC0603JR-0782KL, 0.00040, 0.0004, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e4c719&sid=14968&ppid=55508107&vpid=195893986&ct=offers, Wuhan P&S
+26,"RC0603JR-07300KL",Yageo,"r13",300000 ohm, 1, 10, C1S900100876128, 0.04530, 0.0453, https://octopart.com/click/track?country=IN&ak=17001198&sig=0673fe7&sid=13512&ppid=1245148&vpid=281202044&ct=offers, Chip One Stop Japan
+27,"RC0603JR-07120KL",Yageo,"r14",120000 ohm, 1, 4249, 98K7293, 0.00900, 0.009, https://octopart.com/click/track?country=IN&ak=17001198&sig=0915003&sid=2402&ppid=39800735&vpid=20052781&ct=offers, Newark
+28,"MCP73831T-2ACI/MC",Microchip,"u8",MCP73831T-2ACI/MC , 1, 3287, MCP73831T-2ACI/MC**MULT1, 0.55470, 0.5547, https://octopart.com/click/track?country=IN&ak=17001198&sig=074db2e&sid=1106&ppid=422777&vpid=410089012&ct=offers, Arrow
+29,"S2B-PH-SM4-TB(LF)(SN)",JST Sales America Inc.,"u9",S2B-PH-SM4-TB(LF)(SN) , 1, 958, 6882450, 0.30500, 0.305, https://octopart.com/click/track?country=IN&ak=17001198&sig=0ee1b83&sid=2454&ppid=248913&vpid=19656999&ct=offers, Future Electronics
+30,"c1206c106k3ractu",Kemet,"c20,c21",1.0E-5 F, 2, 2141, C1206C106K3RACTU**MULT1, 0.66890, 1.3378, https://octopart.com/click/track?country=IN&ak=17001198&sig=079727f&sid=1106&ppid=22544257&vpid=255954928&ct=offers, Arrow
+31,"RC0603JR-072KL",Yageo,"r15",2000 ohm, 1, 56024, RC0603JR-072KL, 0.00900, 0.009, https://octopart.com/click/track?country=IN&ak=17001198&sig=059a6fd&sid=2412&ppid=1237220&vpid=127497921&ct=offers, Quest
+32,"4-1437565-2",TE Connectivity,"u11",4-1437565-2 , 1, 10048, 4-1437565-2, 0.13990, 0.1399, https://octopart.com/click/track?country=IN&ak=17001198&sig=0197755&sid=15568&ppid=46507618&vpid=181308557&ct=offers, Sager Electronics
+33,"Q65110A2395",Osram,"u12",Q65110A2395 , 1, 1182, LG M67K-G1J2-24-Z**MULT1, 0.29880, 0.2988, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e598e4&sid=1106&ppid=31091237&vpid=90894266&ct=offers, Arrow
+34,"nc7sz125m5x",On Semi,"u13,u14",nc7sz125m5x , 2, 1945, NC7SZ125M5X, 0.03000, 0.06, https://octopart.com/click/track?country=IN&ak=17001198&sig=041986c&sid=13803&ppid=425682&vpid=81172668&ct=offers, ExcessParts.Net
+35,"c0402c103k3rac",Kemet,"c22,c23",1.0E-8 F, 2, 118031, C0402C103K3RAC, 0.04500, 0.09, https://octopart.com/click/track?country=IN&ak=17001198&sig=0e911fb&sid=2412&ppid=2222716&vpid=5041149&ct=offers, Quest
+,,,,, , , , Total , 11.02928 $ , 
