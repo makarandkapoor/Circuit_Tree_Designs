@@ -12,7 +12,8 @@ Generate embedded hardware designs through http://circuit-tree.com/ schematics a
 Use autorouter to complete your the final board file.
 
 ## Circuit Description
-Circuit Description: Design uses a controller from Texas Instruments with part number AM3356BZCZA80 and following parts in the design:
+Circuit Description: Design uses a controller from Texas Instruments with part number AM3356BZCZA80 and following parts in the 
+design:
 1). 10100565 from Amphenol
 2). FTSH-105-01-L-DV-K from Samtec
 3). LAN8710AI-EZK from Microchip
