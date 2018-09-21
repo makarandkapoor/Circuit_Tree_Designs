@@ -6,6 +6,7 @@ The folder contains embedded hardware designs mined/created by circuit tree hard
 
 Each folder contains design files generated on the circuit tree application server. It contains eagle, altium and orcad schematic files , bill of material, board layout snapshots from various dxf file to display auto generated component placement. 
 
+Additional folder Development boards contains projects which have been fabricated and assembled. [Small Drone board](https://github.com/makarandkapoor/Circuit_Tree_Designs/tree/master/Development_boards/Small_drone_board) is a example board created with circuit tree hardware compiler. 
 
 ## Motivation
 
